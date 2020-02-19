@@ -25,6 +25,6 @@ We have also used code generators to minimise the boilerplate codes, such as [re
 For more help you can go to 
 [Sign In with LinkedIn](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin) or raise the issue in this repo.
 
-<img src="screenshots/main.jpg"/>
-<img src="screenshots/login.jpg"/>
-<img src="screenshots/home.jpg"/>
+<img src="screenshots/main.jpg" width="200" height="400"/>
+<img src="screenshots/login.jpg" width="200" height="400"/>
+<img src="screenshots/home.jpg" width="200" height="400"/>
