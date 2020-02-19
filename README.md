@@ -4,7 +4,7 @@ Flutter app for demonstrating LinkedIn Login.
 
 ## Getting Started
 
-This project is just a demo on LinkedIn login using linkedIn ver2 API.
+This project is just a demo on LinkedIn login using linkedIn V2 API.
 
 To access LinkedIn login, you'll need to make sure to [register your application.](https://www.linkedin.com/developers/apps)
 
@@ -24,3 +24,7 @@ We have also used code generators to minimise the boilerplate codes, such as [re
 
 For more help you can go to 
 [Sign In with LinkedIn](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin) or raise the issue in this repo.
+
+<img src="screenshots/main.jpg"/>
+<img src="screenshots/login.jpg"/>
+<img src="screenshots/home.jpg"/>
